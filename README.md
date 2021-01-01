@@ -6,7 +6,7 @@
 Программирую ботов на **JavaScript**
 
 
-+ **Мои соц сети**
+## **Мои соц сети**
 <a href="https://t.me/MillerD3V">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/telegram.svg" />
 </a>
@@ -20,7 +20,7 @@
  
 <br><br>
 
-+ **Языки которые я изучаю**
+## **Языки которые я изучаю**
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
 

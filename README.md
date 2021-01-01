@@ -24,6 +24,7 @@
 
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
 
+## **Моя статистика**
 <a href="https://github.com/MillerD3V">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=MillerD3V&show_icons=true&include_all_commits=true&theme=dark" alt="MillerD3V github stats" />
  

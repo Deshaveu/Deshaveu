@@ -5,10 +5,7 @@
 
 • Программирую ботов на **JavaScript**
 
- 
- 
 
- 
 + **Мои соц сети**
 <a href="https://t.me/miratov">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/telegram.svg" />

@@ -7,7 +7,7 @@
 
 
 + **Мои соц сети**
-<a href="https://t.me/miratov">
+<a href="https://t.me/MillerD3V">
   <img align="left" alt="Telegram" width="31px" src="https://raw.githubusercontent.com/perssBest/perssBest/master/assets/telegram.svg" />
 </a>
 
